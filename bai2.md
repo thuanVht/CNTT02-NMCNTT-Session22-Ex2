@@ -1,10 +1,10 @@
 1. Những bình luận nên ưu tiên đọc
 
 Khi issue còn OPEN và có nhiều ý kiến trái chiều, ưu tiên :
-có nhiều lược tim và like 
-có người xác nhận hiệu quả 
-Bình luận của Maintainer / Contributor
-nên cẩn than vs những bình luận có lượt dislike hoặc confused cao hoặc những đoạn mã dài mà ko có người xác minh là hiệu quả .
+- có nhiều lược tim và like 
+- có người xác nhận hiệu quả 
+- Bình luận của Maintainer / Contributor
+- nên cẩn than vs những bình luận có lượt dislike hoặc confused cao hoặc những đoạn mã dài mà ko có người xác minh là hiệu quả .
 2. Workaround là gì và vì sao không nên chờ bản cập nhật chính thức?
 **Workaround** là cách khắc phục tạm thời, không sửa nguyên nhân gốc của lỗi mà chỉ giúp bạn tiếp tục làm việc trong lúc chờ bản vá chính thức.
 
